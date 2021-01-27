@@ -1,0 +1,14 @@
+.Field {
+	border: solid 2px #f7f6e7;
+	border-radius: 10px;
+	background-color: #bbad9f;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.Field-plant{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	flex-direction: row;
+}
